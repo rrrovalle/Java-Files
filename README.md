@@ -1,7 +1,5 @@
 Java Input/Output 
 
-Files Manipulation!!!
-
 This project contains examples of:
 
 
