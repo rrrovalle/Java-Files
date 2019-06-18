@@ -1,14 +1,17 @@
-Java Input/Output (Using File class from the java.io package)
+<<<<<<< HEAD
+Java Input/Output
 
 In this folder you'll find examples using File class from the java.io package.
 - Create a File
-- Get File Information
-- Write a File
 - Read a File
+- Get File Information
 - Object manipulation using ObjectStream/ObjectOutputStream and Serializable
-- Binary Acess
-- Random Acess
+- Binary Access
+- Random Access
 
 
 Hope u enjoy it :}
 
+=======
+Java Projects
+>>>>>>> master
