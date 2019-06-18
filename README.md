@@ -1,37 +1,38 @@
 Java Input/Output 
 
-Files Manipulation:
+Files Manipulation!!!
 
-Include:
+This project contains examples of:
 
 
--Java Input/Output
 
--FileOutputStream
+- Java Input/Output
 
--FileInputStream 
+- FileOutputStream
 
--BufferedOutputStream 
+- FileInputStream 
 
--BufferedInputStream
+- BufferedOutputStream 
 
--DataOutputStream
+- BufferedInputStream
 
--DataInputStream
+- DataOutputStream
 
--Java ObjectStream
+- DataInputStream
 
--Writer
+- Java ObjectStream
 
--Reader
+- Writer
 
--FileWriter
+- Reader
 
--FileReader
+- FileWriter
 
--BufferedWriter
+- FileReader
 
--PrintWriter 
+- BufferedWriter
+
+- PrintWriter 
 
 
 
