@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 Java Input/Output
 
-In this folder you'll find examples using File class from the java.io package.
+Examples using the File class from the java.io package.
 - Create a File
 - Read a File
 - Get File Information
@@ -11,7 +10,3 @@ In this folder you'll find examples using File class from the java.io package.
 
 
 Hope u enjoy it :}
-
-=======
-Java Projects
->>>>>>> master
